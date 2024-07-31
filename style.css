@@ -196,29 +196,7 @@ button:hover {
 
 
 }
-.About:hover{
-        transform: scale(0.9); 
-    
-}
-.skills:hover{
-    transform: scale(0.9); 
-}
-.database:hover{
-    transform: scale(0.9); 
-}
-.project-section:hover{
-    transform: scale(0.9); 
-}
-.contact:hover{
-    transform: scale(0.9); 
-}
-.language:hover {
-    transform: scale(1.08);
-}
 
-.webdev:hover {
-    transform: scale(1.08);
-}
 
 .language {
     width: 100%;
